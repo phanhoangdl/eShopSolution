@@ -12,4 +12,5 @@
 - Configure entity:
 + Attribute configuration
 + Fluent API Configuration: https://www.learnentityframeworkcore.com/configuration/fluent-api
+- Config Connection String: Microsoft.Extensions.Configuration.FileExtensions, Microsoft.Extensions.Configuration.Json
 ## How to contribute
